@@ -1,20 +1,26 @@
-/* *{
+*{
     margin: 0;
     box-sizing: border-box;
-}  */
+} 
+
+.container{
+    height: 100vh;
+    margin: 0px 150px 0px 150px;
+}
 
 /* Top background and logo */
 .head-img{
-    background-image: url(../../img/pattern.png);
-    background-color: rgb(22, 165, 221);
+    background-image: url(../../img/pattern.png);  
+    background-color: rgb(22, 165, 221);   
     background-size: 400px;
     height: 100px;
+
 }
 
 .logo{
     height: 50px;
     margin-top: 40px;
-    margin-left: 10px;
+    margin-left: 150px;
 }
 
 /* Title and imgs */
