@@ -76,7 +76,7 @@ th{
     padding-top: 10px;
     padding-left: 10px;
     background-size: 230px;
-    height: 180px;
+    height: 150px;
     width: 200px;
     background-repeat: no-repeat;
     background-position: left top;
@@ -84,6 +84,24 @@ th{
 }
 
 .txt-frst-interest{
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
+}
+/* secondo interest */
+.scnd-interest{
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-size: 230px;
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(../img/graph.jpg)
+}
+
+.txt-scnd-interest{
     color: white;
     font-weight: 800;
     font-size: 18px;
