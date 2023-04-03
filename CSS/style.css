@@ -1,7 +1,7 @@
 /* *{
     margin: 0;
     box-sizing: border-box;
-}  */
+} 
 
 /* Top background and logo */
 .head-img{
@@ -62,6 +62,10 @@ th{
 
 .tbl-color{
     background-color: rgba(107, 223, 243, 0.644);
+}
+
+main{
+    padding-bottom: 25px;
 }
 
 /* footer */
