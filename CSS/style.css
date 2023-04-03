@@ -1,8 +1,8 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 /* Top background and logo */
 .head-img{
@@ -20,7 +20,7 @@
 }
 
 /* Title and imgs */
-span{
+.under-title{
     color: gray;
 }
 
@@ -30,4 +30,16 @@ strong{
 
 #date{
     font-size: 12px;
+}
+
+.pht{
+    margin-top: 20px;
+}
+
+.pht-descriprion{
+    font-size: 12px;
+}
+
+.midle-p{
+    background-color: yellow;
 }
