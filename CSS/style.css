@@ -63,3 +63,28 @@ th{
 .tbl-color{
     background-color: rgba(107, 223, 243, 0.644);
 }
+
+/* footer */
+#interest{
+    color: grey;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.frst-interest{
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-size: 230px;
+    height: 180px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(../img/monitor.jpg)
+}
+
+.txt-frst-interest{
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
+}
