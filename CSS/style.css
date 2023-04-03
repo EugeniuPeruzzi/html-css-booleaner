@@ -9,7 +9,6 @@
     background-color: rgb(22, 165, 221);
     background-size: 400px;
     height: 100px;
-    background-repeat: repeat-x;
 }
 
 .logo{
@@ -55,7 +54,11 @@ th{
     color: white;
     background-color: rgb(0, 162, 255);
     height: 10px;
+    text-align: left;
 }
+ th, tr{
+    width: 1000px
+ }
 
 .tbl-color{
     background-color: rgba(107, 223, 243, 0.644);
