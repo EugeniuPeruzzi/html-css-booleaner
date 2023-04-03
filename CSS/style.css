@@ -1,8 +1,7 @@
 /* *{
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
-} */
+}  */
 
 /* Top background and logo */
 .head-img{
@@ -39,7 +38,25 @@ strong{
 .pht-descriprion{
     font-size: 12px;
 }
-
+/* paragraph */
 .midle-p{
     background-color: yellow;
+}
+/* list */
+ul{
+    padding-left: 15px;
+}
+/* Table rows */
+table{
+    border-collapse: collapse;
+}
+
+th{
+    color: white;
+    background-color: rgb(0, 162, 255);
+    height: 10px;
+}
+
+.tbl-color{
+    background-color: rgba(107, 223, 243, 0.644);
 }
