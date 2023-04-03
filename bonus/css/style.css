@@ -1,7 +1,7 @@
-*{
+/* *{
     margin: 0;
     box-sizing: border-box;
-} 
+}  */
 
 .container{
     height: 100vh;
@@ -68,6 +68,9 @@ th{
 
 .tbl-color{
     background-color: rgba(107, 223, 243, 0.644);
+}
+main{
+    padding-bottom: 25px;
 }
 
 /* footer */
